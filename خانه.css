@@ -1,0 +1,236 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 2204px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 605px;
+  height: 631px;
+  margin: 187px auto 0 79px;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 654px;
+  height: 640px;
+  margin: -640px auto 0 20px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 496px;
+  height: 496px;
+  background-image: url("images/new-energys.jpg");
+  background-position: 50% 50%;
+  margin: -580px auto 0 99px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 1139px;
+  min-height: 1149px;
+  margin: -196px auto 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-shape-3 {
+  width: 81px;
+  height: 81px;
+  margin: 80px 398px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.0625rem;
+  transition-duration: 0.5s;
+  margin: 121px 33px 0 7px;
+}
+
+.u-section-1 .u-btn-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  border-style: solid;
+  margin: 79px auto 0 80px;
+  padding: 15px 61px 17px 60px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 3rem;
+  margin: -1399px 99px 60px -20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    width: 940px;
+  }
+
+  .u-section-1 .u-shape-3 {
+    margin-top: 155px;
+    margin-right: 211px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 46px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-shape-2 {
+    margin-top: -589px;
+    margin-right: 12px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -631px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 1226px;
+    margin-top: -121px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-shape-3 {
+    margin-top: 122px;
+    margin-right: 20px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 79px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: -1719px;
+    margin-right: 50px;
+    margin-left: -50px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-shape-1 {
+    height: 292px;
+    width: 370px;
+    margin-top: 473px;
+    margin-left: 71px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 439px;
+    height: 405px;
+    margin-top: -405px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 385px;
+    height: 385px;
+    margin-top: -434px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 1496px;
+    margin-top: -195px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -1792px;
+    margin-right: 34px;
+    margin-left: -34px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2966px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 275px;
+    width: 275px;
+    margin-top: 669px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-shape-2 {
+    height: 328px;
+    margin-top: -430px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -287px;
+    height: 340px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 2131px;
+    margin-top: -112px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 21px;
+  }
+
+  .u-section-1 .u-shape-3 {
+    margin-top: 109px;
+    margin-right: 14px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 92px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 65px;
+    margin-left: 61px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 2.25rem;
+    margin-top: -2505px;
+    margin-right: 50px;
+    margin-left: -50px;
+  }
+}
+
+.u-section-1 .u-text-1,
+.u-section-1 .u-text-1:before,
+.u-section-1 .u-text-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
